@@ -1,2 +1,2 @@
-# Internify-Segmentify
-Internify Project
+# E-Ticaret Sitesi - Proje
+
